@@ -20,7 +20,7 @@
 
 <!-- Preset -->
 <div class="container p-0 pb-3" style="background-color: #ffff;">
-    <img class="img-fluid" src="<?= BASEURL ?>public/img/Undangan Banner.png">
+    <img class="img-fluid" src="./asset/img/Undangan Banner.png">
     <h4 class="mt-4 text-center t1">Preset & Design</h4>
     <div class="container">
         <hr>
