@@ -327,8 +327,8 @@
     <table class="table table-borderless mb-0 p-0 mx-auto">
         <tr>
             <td class="t1" style="width:30%">Pilih :</td>
-            <td class="align-middle text-center m-0 pt-0" style="width:30%"><a class="btn btn-sm btn-info text-dark" href="https://forms.gle/YVXqNHmFAwQFYMa86" target="_blank"><b>Paket Basic</b></a></td>
-            <td class="align-middle text-center m-0 pt-0" style="width:40%"><a class="btn btn-sm btn-warning text-dark" href="https://forms.gle/KKTfJaxai7AVUD2B6" target="_blank"><b>Paket Premium</b></a></td>
+            <td class="align-middle text-center m-0 pt-0" style="width:30%"><a class="btn btn-sm btn-info text-dark" href="https://bit.ly/Wedd-Basic" target="_blank"><b>Paket Basic</b></a></td>
+            <td class="align-middle text-center m-0 pt-0" style="width:40%"><a class="btn btn-sm btn-warning text-dark" href="https://bit.ly/Wedd-Premium" target="_blank"><b>Paket Premium</b></a></td>
         </tr>
     </table>
     </div>
