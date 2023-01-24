@@ -314,27 +314,9 @@
         </tr>
     </table>
     <hr class="mt-0 mb-4">
-    <h4 class="text-center text-danger"><b>Masa aktif selamanya</b></h4>
     <hr class="mt-4">
 </div>
 
-<!-- Pemesanan -->
-<div class="container">
-    <h4 class="mt-5 t1">Pemesanan</h4>
-    <br>
-    <center>
-    <div class="col-12">
-    <table class="table table-borderless mb-0 p-0 mx-auto">
-        <tr>
-            <td class="t1" style="width:30%">Pilih :</td>
-            <td class="align-middle text-center m-0 pt-0" style="width:30%"><a class="btn btn-sm btn-info text-dark" href="https://bit.ly/Wedd-Basic" target="_blank"><b>Paket Basic</b></a></td>
-            <td class="align-middle text-center m-0 pt-0" style="width:40%"><a class="btn btn-sm btn-warning text-dark" href="https://bit.ly/Wedd-Premium" target="_blank"><b>Paket Premium</b></a></td>
-        </tr>
-    </table>
-    </div>
-    </center>
-    <hr>
-</div>
     
 <!-- Contact -->
 <div class="container mx-auto mb-4">
