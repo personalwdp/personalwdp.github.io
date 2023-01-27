@@ -290,11 +290,6 @@
             <td class="text-success text-center">Yes</td>
         </tr>
         <tr>
-            <td class="t1">Share Nama</td>
-            <td class="text-danger">No</td>
-            <td class="text-success text-center">Yes</td>
-        </tr>
-        <tr>
             <td class="t1">Love Stories</td>
             <td class="text-danger">No</td>
             <td class="text-success text-center">Yes</td>
